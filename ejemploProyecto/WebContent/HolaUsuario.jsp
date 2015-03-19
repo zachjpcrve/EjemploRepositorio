@@ -10,6 +10,7 @@
 <body>
 <f:view>
 	<h1>Hola Usuario</h1>
+	<p>Modificacion</p>
 </f:view>
 </body>
 </html>
